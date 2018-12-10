@@ -6,18 +6,15 @@ Nome				RA
 Rafael Faine Lemos 		Ra: 3017105151
 
 
-<<<<<<< HEAD
 			        
 Carlos Henrique Rodrigues dos santos	Ra: 2217114517
 
-<<<<<<< HEAD
+
 
 finalizar o teste  3
 
-=======
-teste branch 11111111eegvv
+teste inicial 10/12
 
 
-=======
->>>>>>> site
+
 <coloquem seu nome e RA>
