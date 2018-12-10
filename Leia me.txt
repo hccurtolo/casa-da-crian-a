@@ -2,12 +2,13 @@ Projeto Pagina em html Casa da Criança
 
 <coloquem seu nome e RA!!!>
 
-Nome				                    RA
-Rafael Faine Lemos 	                    3017105151
+Nome				         RA
+
+Rafael Faine Lemos 	                3017105151
 Carlos Henrique Rodrigues dos Santos    2217114517
 Carlos Eduardo de Souza Ribeiro         2217113387
 Antônio Carlos                          2217112615
-Arthur
+Arthur					2214112633
 Alessandro Vidoeira                     2217104835
 Paulo Cezar                             2217112867
 Carolina Oliveira do Nascimento         2217112425
